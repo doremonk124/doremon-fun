@@ -36,6 +36,9 @@ export default {
     Logo
   }
 }
+$(document).ready(function () {
+    alert('hehe');
+});
 </script>
 
 <style>

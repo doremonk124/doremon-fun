@@ -1,6 +1,6 @@
 
 export default {
-  mode: 'universal',
+  mode: 'spa',
   /*
   ** Headers of the page
   */
@@ -15,7 +15,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     script : [
-      {src : '/assets/jquery.min.js'}
+      { src : '/assets/jquery.min.js' }
     ]
   },
   /*
